@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Dockerfile中使用Cmd做為Entrypoint的參數"
-date:   2019-04-13 02:03:59 +0800
-categories: jekyll update
+date:   2019-04-13 22:14:59 +0800
+categories: docker
 ---
+# Hello Moto
